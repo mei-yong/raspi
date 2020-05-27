@@ -1,0 +1,9 @@
+gpio readall
+
+gpio -v
+
+cat /etc/os-release
+
+df -h
+
+. robotEnv/bin/activate
